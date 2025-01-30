@@ -1,0 +1,53 @@
+---
+pagetitle: "HPC Spring School @UU"
+page-layout: full
+search: true
+image: img/data-center.jpg
+image-alt: "Data center"
+repo-actions: [edit, issue]
+
+about:
+  template: solana
+  image-width: 32em
+  id: hero-heading
+
+listing:
+  - id: programme
+    contents: 
+    - /programme
+    - "!programme/index.qmd"
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 10
+    feed: false
+
+  - id: support
+    contents:
+    - /support
+    - "!support/index.qmd"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+---
+
+<br><br>
+
+Welcome to this template github repository that is developed by [Research Data Management support at Utrecht University](https://www.uu.nl/en/research/research-data-management). This template combines two quarto projects (book and slides) in one github repository for creating a book with embedded slides.
+
+## [Programme](programme/index.qmd)
+
+::: {#programme}
+:::
+
+## [Supported by](support/index.qmd)
+:::{#support}
+:::
+
+
+

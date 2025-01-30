@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+// importing fonts
+@import url('https://fonts.googleapis.com/css?family=Merriweather:wght@300&family=Open+Sans&display=swap');
+
+// fonts
+$font-family-sans-serif: 'Open Sans', Tahoma, sans-serif !default;
+
+// headings
+$presentation-heading-font: 'Merriweather',  Tahoma, sans-serif  !default;
+$presentation-heading-color: #000000 !default;
+$h1-font-size: 2.0em !default;
+$h2-font-size: 1.7em !default;
+$h3-font-size: 1.15em !default;
+
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: $presentation-heading-font;
+}
+
+
+.subtitle {
+  color: #000000;
+  font-size: $h2-font-size;
+  font-family: $presentation-heading-font;
+}
+
+.author {
+  color: $body-bg;
+  font-size: $h2-font-size;
+  font-family: $presentation-heading-font;
+}
+
+.footer {
+  font-family: $presentation-heading-font;
+}
+
+.reveal .slide-number {
+  font-family: $presentation-heading-font;
+}
+
+.reveal .panel-tabset [role=tab] {
+    font-size: 0.8em;
+}
+
+.reveal .footer {
+    color: #000000;
+}
+
+
+.center-x{
+    text-align: center;
+}
+
+
+
+

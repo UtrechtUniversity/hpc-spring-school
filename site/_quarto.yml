@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "HPC Spring School 2025"
+  page-navigation: true
+  navbar:
+    toggle-position: right
+    logo-href: https://utrechtuniversity.github.io/hpc-spring-school/
+    logo: img/uu-logo-en-geenwitruimte.png
+    logo-alt: "Main page of the UU HPC Spring School"
+    title: false
+    collapse-below: lg
+    tools:
+      - icon: github
+        menu:
+          - text: Source code
+            url:  https://github.com/UtrechtUniversity/hpc-spring-school
+          - text: Report an issue
+            url:  https://github.com/UtrechtUniversity/hpc-spring-school-template/issues
+    search: true
+    pinned: true
+
+    right:
+      - text: "About"
+        href: contact.qmd
+        aria-label: About page
+      - text: Home
+        href: index.qmd
+        aria-label: Home page
+
+  page-footer:
+    left: >-
+      {{< now year >}} Utrecht University &#8729; Made with [![Quarto](https://quarto.org/quarto.png){fig-alt="Quarto logo blue round circle with a cross within the circumference" width=65px}](https://quarto.org/)
+
+format:
+  html:
+    theme: 
+      light: 
+        - cosmo
+        - styles/theme-light.scss
+        - styles/uu.scss
+      dark: [cosmo, styles/theme-dark.scss]
+
+    
