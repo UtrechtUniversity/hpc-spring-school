@@ -8,7 +8,7 @@ repo-actions: [edit, issue]
 
 about:
   template: solana
-  image-width: 32em
+  image-width: 30em
   id: hero-heading
 
 listing:
@@ -29,15 +29,22 @@ listing:
 
   - id: support
     contents:
-    - /support
-    - "!support/index.qmd"
+    - path: https://eurocc-netherlands.nl/
+      image: img/eurocc.png
+      title: "**EuroCC**"
+      description: "EuroCC aims to build a European network of 33 national HPC competence centres to bridge the existing HPC skills gaps while promoting cooperation across Europe. The establishment of a European network of 33 national HPC competence centres (NCCs) is coordinated by the EuroCC project. This falls under The European High Performance Computing Joint Undertaking (EuroHPC JU) from the European Union. "
+    - path: https://surf.nl
+      image: img/surf_logo/SURF%20fc%20logo's/SURF_fc.svg
+      title: "**SURF**"
+      description: "SURF is a cooperative association of Dutch educational and research institutions in which the members combine their strengths. Within SURF, we work together to acquire or develop the best possible digital services, and to encourage knowledge sharing through continuous innovation. The members are the owners of SURF."
     type: grid
     categories: false
     max-items: 3
+    max-description-length: 500
+    image-height: 300px
     feed: false
 ---
 
-<br><br>
 
 ::: {.callout-note}
 Under construction
@@ -46,9 +53,9 @@ Under construction
 ::: {#hero-heading}
 ## HPC Spring School @ Utrecht University
 
-Do you want to speed up your analyses or process large datasets? Then please take part in the HPC Spring School and boost your computing skills!
+Are you ready to boost your skills in scientific computation, parallel programming, and deep learning? Then please take part in the HPC Spring School at Utrecht University!
 
-During this Spring School, SURF and the Research Engineering team from ITS offer a wide range of sessions spread over eight days. Each session provides in-depth training on supercomputing, ranging from introductory topics for beginners to advanced techniques for experienced users. 
+During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over eight days.
 
 The HPC Spring School will take place from Monday 12 May till Thursday 22 May at Utrecht University; all sessions are in-person events. 
 

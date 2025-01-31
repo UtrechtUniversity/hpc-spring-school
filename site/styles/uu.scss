@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $presentation-heading-font;
 }
 
-.reveal .slide-number {
-  font-family: $presentation-heading-font;
+.quarto-grid-item p.card-img-top > img {
+  object-position: top
 }
 
 .reveal .panel-tabset [role=tab] {
