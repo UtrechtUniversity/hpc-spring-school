@@ -54,6 +54,15 @@ This Spring School offers a wide range of sessions spread over eight days. Exper
 
 The Spring School is free of charge and open to all researchers and students. Registration is required and a no show policy is in place. 
 
+Do you want to get started with high performance computing at Utrecht University? 
+
+Contact one of the following support teams to get access to HPC facilities:
+
+- [UU wide HPC consultancy and support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing)
+- Faculty of Science: [BetaICT](https://ict.science.uu.nl/index.php?title=High_Performance_Computing)
+- [Faculty of Geosciences](https://geo-data-support.sites.uu.nl/data-management/computing-resources-geosciences/)
+- [Utrecht Bioinformatics Center](https://ubc.uu.nl/high-performance-computing/)
+
 :::
 
 <br><br>
