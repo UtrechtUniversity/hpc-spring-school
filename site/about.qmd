@@ -8,7 +8,7 @@ repo-actions: [edit, issue]
 
 about:
   template: solana
-  image-width: 30em
+  image-width: 32em
   id: hero-heading
 
 listing:
@@ -45,24 +45,22 @@ listing:
     feed: false
 ---
 
-
+<br><br>
 
 ::: {#hero-heading}
-## HPC Spring School @ Utrecht University
+## About
 
-Are you ready to boost your skills in scientific computation, parallel programming, and deep learning? Then please take part in the HPC Spring School at Utrecht University!
+This Spring School offers a wide range of sessions spread over eight days. Experts from Utrecht University and SURF will provide training in scientific computation, parallel programming, and deep learning. Each workshop has their own registration form, so interested participants can choose workshops that are most relevant to them. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
 
-During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over eight days.
-
-The HPC Spring School will take place from Monday 12 May till Thursday 22 May at Utrecht University; all sessions are in-person events. 
+The Spring School is free of charge and open to all researchers and students. Registration is required and a no show policy is in place. 
 
 :::
 
+<br><br>
 
-<iframe src="https://survey.uu.nl/jfe/form/SV_2i5biYmQ2UZsvPM" height="500px" width="1000px"></iframe>
+<br><br>
 
-
-## Programme
+## [Programme](programme/index.qmd)
 
 ::: {#programme}
 :::
