@@ -3,6 +3,9 @@ title: Basic Parallel Programming with MPI and OpenMP
 subtitle: "9:00 - 17:00"
 date: "19 May 2025"
 author: "SURF"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
 categories:
   - HPC
   - VRE

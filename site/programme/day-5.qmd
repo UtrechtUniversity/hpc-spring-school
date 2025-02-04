@@ -3,6 +3,9 @@ title: Virtual Research Environments; Introduction to SURF Research Cloud
 subtitle: "9:00 - 17:00"
 date: "16 May 2025"
 author: "UU support"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
 categories:
   - HPC
   - VRE
