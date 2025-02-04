@@ -3,18 +3,26 @@ title: Introduction to Supercomputing 2
 subtitle: "9:00 - 14:30"
 date: "15 May 2025"
 author: "SURF"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
 categories:
   - HPC
-  - VRE
-  - Cloud
-image: ../img/data-center.jpg
+image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
   cache: true
   freeze: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et quam in nunc. Sed nec nunc nec nunc ultricies ultricies. Donec auctor, nunc nec
+Using a high-performance computing system in the most effective and efficient way is not an easy task. Therefore, this course brings a follow-up to the first introductory Supercomputing course (part 1), where you can take a deeper dive into the use of supercomputers with a special focus on efficiency and good practices and a very practical approach.
 
-## Introduction to Bash
+[More information](https://eurocc-netherlands.nl/portfolio/introduction-to-supercomputing-part-2/)
 
+Prerequisites: 
+
+- [Introduction to Bash](./day-1.qmd)
+- [Introduction to Git](./day-2.qmd)
+- [Introduction to Supercomputing 1](./day-3.qmd)
+
+If you already possess the knowledge of the above-mentioned prerequisites, you can register for this course.

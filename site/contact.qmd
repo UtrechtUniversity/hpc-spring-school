@@ -14,38 +14,57 @@ about:
 listing:
   - id: programme
     contents: 
-    - /programme
-    - "!programme/index.qmd"
-    sort: "date desc"
-    type: default
-    categories: false
+    - /programme/day-*.qmd
+    type: table
+    sort: "date asc"
+    fields: [image, date, subtitle, title, author]
+    field-display-names:
+      date: "Date"
+      subtitle: "Time"
+      title: "Workshop"
+      author: "Presenter"
+    date-format: "MMMM DD, YYYY"
     sort-ui: false
     filter-ui: false
-    max-items: 10
-    feed: false
 
   - id: support
     contents:
-    - /support
-    - "!support/index.qmd"
+    - path: https://eurocc-netherlands.nl/
+      image: img/eurocc.png
+      title: "**EuroCC**"
+      description: "EuroCC aims to build a European network of 33 national HPC competence centres to bridge the existing HPC skills gaps while promoting cooperation across Europe. The establishment of a European network of 33 national HPC competence centres (NCCs) is coordinated by the EuroCC project. This falls under The European High Performance Computing Joint Undertaking (EuroHPC JU) from the European Union. "
+    - path: https://surf.nl
+      image: img/surf_logo/SURF%20fc%20logo's/SURF_fc.svg
+      title: "**SURF**"
+      description: "SURF is a cooperative association of Dutch educational and research institutions in which the members combine their strengths. Within SURF, we work together to acquire or develop the best possible digital services, and to encourage knowledge sharing through continuous innovation. The members are the owners of SURF."
     type: grid
     categories: false
-    sort-ui: false
-    filter-ui: false
     max-items: 3
+    max-description-length: 500
+    image-height: 300px
     feed: false
 ---
 
 <br><br>
 
-Welcome to this template github repository that is developed by [Research Data Management support at Utrecht University](https://www.uu.nl/en/research/research-data-management). This template combines two quarto projects (book and slides) in one github repository for creating a book with embedded slides.
+::: {#hero-heading}
+## Contact
+
+
+For any questions related to this Spring School, please contact the [Research Engineering team at Utrecht University](https://www.uu.nl/en/research/research-data-management/contact-us). 
+
+:::
+
+<br><br>
+
+<br><br>
 
 ## [Programme](programme/index.qmd)
 
 ::: {#programme}
 :::
 
-## [Supported by](support/index.qmd)
+## Supported by
 :::{#support}
 :::
 

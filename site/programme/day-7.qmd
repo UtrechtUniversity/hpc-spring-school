@@ -7,14 +7,36 @@ categories:
   - HPC
   - VRE
   - Cloud
-image: ../img/data-center.jpg
+image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
   cache: true
   freeze: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et quam in nunc. Sed nec nunc nec nunc ultricies ultricies. Donec auctor, nunc nec
+Did you know that an optimal use of applications or code development can have an impact in the environment? The energy usage of computing infrastructure is becoming an increasingly prominent topic for computing systems design and usage. In this course you will learn about the basics behind energy efficient computing.
 
-## Introduction to Bash
+### What?
+
+This course will cover tools and technologies that allow a user/software-developer to understand their energy usage in terms of energy analysis of the software that is being deployed on the system.
+
+We will give you a complete overview on how to optimize the use of computing systems and application development for the purpose of energy efficiency, rather than keeping a focus on performance or memory usage. You will learn how to do green coding and work with applications in a sustainable way. Some of the main topics will include:
+
+- Overview of the data center energy footprint
+- Energy usage and energy-aware computing on HPC systems
+- Large-scale application performance and energy analysis
+- Application characterization and optimization for energy efficiency
+
+### Who?
+
+- Everyone interested in learning how to understand energy usage of their software.
+
+### Requirements:
+
+- [Introduction to Bash](./day-1.qmd)
+- Basic programming experience is recommended
+
+### You should have:
+
+Your own laptop with an up-to-date browser and a terminal emulator. The use of the operating systems Linux and macOS is preferred, but not mandatory. For Windows users we recommend to download MobaXterm (portable version) as terminal emulator.
 

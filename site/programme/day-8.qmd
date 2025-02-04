@@ -7,14 +7,33 @@ categories:
   - HPC
   - VRE
   - Cloud
-image: ../img/data-center.jpg
+image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
   cache: true
   freeze: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et quam in nunc. Sed nec nunc nec nunc ultricies ultricies. Donec auctor, nunc nec
+### What will you learn?
 
-## Introduction to Bash
+During our hands-on sessions you will have the opportunity to work on our high-performance systems with different types of data, and learn how to tune your model to obtain optimal results in the most efficient way. The workshop will cover basic deep learning knowledge as well as training neural networks on high-performance computing clusters.
 
+### Objectives:
+
+- Understand machine learning theories and algorithm intuitions
+- Optimize neural networks through hyperparameter tuning
+- setting ups software environment with modules
+- overcoming I/O limitations
+- Profiling and efficient usage of CPU/GPU capabilities
+
+### For Whom?
+
+Everyone interested in getting familiar with machine learning at scale, from the beginning up to more advanced topics
+
+### Prerequisites
+
+- Basic knowledge on statistics
+- Basic knowledge on linear algebra
+- Basic knowledge on Python programming. Some experience with the use of Jupyter Notebooks is desirable, but not essential.
+
+Basic knowledge on parallel computing is helpful, but not required.

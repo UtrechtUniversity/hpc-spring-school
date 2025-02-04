@@ -7,14 +7,22 @@ categories:
   - HPC
   - VRE
   - Cloud
-image: ../img/data-center.jpg
+image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
   cache: true
   freeze: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et quam in nunc. Sed nec nunc nec nunc ultricies ultricies. Donec auctor, nunc nec
+This basic course is focused on providing an introduction to parallel programming using the most widely used approaches: Message Passing Interface (MPI) and Open Multi-Processing (OpenMP).
 
-## Introduction to Bash
+You will start exploring the benefits (and limitations) of parallel programming, and then you will explore the possibilities that task and data parallelism offer to develop multi-core and multi-node programs. Each session includes hands-on exercises to facilitate the understanding of the different constructs. As a participant, you have already some familiarity with C, Fortran or Python programming, and in these two days you will be able to start the development of your own parallel application.
+
+The materials for this course have been [developed at HLRS by Dr. Rolf Rabenseifner](https://web.archive.org/web/20241105054502/https://www.hlrs.de/training/self-study-materials/mpi-course-material).
+
+### Prerequisites
+
+- Please bring your own laptop (with an ssh client installed (e.g. MobaXterm)) for the hands-on sessions!
+- [Introduction to Bash](./day-1.qmd)
+- Knowledge of either C/C++, Fortran or Python programming language is necessary.
 

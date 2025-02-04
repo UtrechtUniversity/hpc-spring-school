@@ -22,12 +22,16 @@ website:
     pinned: true
 
     right:
-      - text: "About"
-        href: contact.qmd
-        aria-label: About page
       - text: Home
         href: index.qmd
         aria-label: Home page
+      - text: About
+        href: about.qmd
+        aria-label: Home page
+      - text: "Contact"
+        href: contact.qmd
+        aria-label: About page
+
 
   page-footer:
     left: >-
@@ -41,5 +45,6 @@ format:
         - styles/theme-light.scss
         - styles/uu.scss
       dark: [cosmo, styles/theme-dark.scss]
+
 
     
