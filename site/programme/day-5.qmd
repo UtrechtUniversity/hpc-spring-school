@@ -1,5 +1,5 @@
 ---
-title: Virtual Research Environments; Introduction to SURF Research Cloud
+title: SURF Research Cloud; beginner and advanced modules
 subtitle: "9:00 - 17:00"
 date: "16 May 2025"
 author: "UU support"
@@ -7,7 +7,6 @@ language:
   title-block-author-single: "Taught by"
   title-block-published: "Date"
 categories:
-  - HPC
   - VRE
   - Cloud
 image: ../img/icons8-workshop-96.png
@@ -15,29 +14,44 @@ image-alt: "data center"
 execute: 
   cache: true
   freeze: true
+  
+listing:
+  - id: modules
+    contents: 
+    - /module-*.qmd
+    type: table
+    sort: "date asc"
+    fields: [image, subtitle, title, author]
+    field-display-names:
+      date: "Date"
+      subtitle: "Time"
+      title: "Workshop"
+      author: "Presenter"
+    date-format: "MMMM DD, YYYY"
+    sort-ui: false
+    filter-ui: false
+
 ---
 
 Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution.
 
-This workshop day will consist of several modules, from getting started with the SURF Research Cloud to more advanced topics. 
+This workshop day will consist of two modules (beginner and advanced) for which you can register separately. Click on the module of your interest to read more information and to register.: 
 
-- Module 1: [Getting started with VRE]
-- Module 2: [Automating workflows using the SURF Research Cloud API]
-- Module 3: [tbd]
+## Modules
+
+::: {#modules}
+:::
 
 
-Are you an existing user?
+**Are you an existing user of SURF Research cloud?**
 
 - You can register for the advanced sessions of your interest.
 
-Are you a new user with a solid technical or programming background?
+**Are you a new user with a solid technical or programming background (e.g. bash, git)?**
 
 - You can register for both the basic and advanced sessions.
 
-Are you a new user without a technical background?
+**Are you a new or beginning user of SURF Research cloud without a technical background?**
 
 - You can register for the Getting started session.
 
-Prerequisites:
-
-- none, but [Introduction to Bash](./day-1.qmd) and [Introduction to Git](day-2.qmd) are recommended as it will increase your options to work with the VREs.

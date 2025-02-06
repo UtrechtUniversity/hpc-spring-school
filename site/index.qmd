@@ -1,5 +1,5 @@
 ---
-pagetitle: "HPC Spring School @UU"
+pagetitle: "HPC Spring School"
 page-layout: full
 search: true
 image: img/data-center.jpg
@@ -58,6 +58,7 @@ The HPC Spring School will take place from Monday 12 May till Thursday 22 May at
 
 :::
 
+<br><br>
 
 <iframe src="https://survey.uu.nl/jfe/form/SV_2i5biYmQ2UZsvPM" height="500px" width="1000px"></iframe>
 

@@ -1,0 +1,30 @@
+---
+title: Automating workflows using the Research Cloud API
+subtitle: "13:30 - 17:00"
+date: "16 May 2025"
+author: "SURF"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
+categories:
+  - VRE
+  - Cloud
+image: ../img/icons8-workshop-96.png
+image-alt: "data center"
+execute: 
+  cache: true
+  freeze: true
+---
+
+Save time, money and energy by automating your workflows using the SURF Research Cloud API!
+
+In this workshop, you will learn how to automate workflows using the SURF Research Cloud API. The API allows you to interact with the Research Cloud programmatically, enabling you to automate tasks such as creating and managing workspaces, transferring data, and executing your pipelines.
+Automating your workflows will not only improve your efficiency, but also reproducibility.
+
+
+Prerequisites:
+
+- Programming skills in e.g. Python
+- Experience in using SURF Research Cloud (e.g. [Extended Introduction to SURF Research Cloud](./module-1.qmd))
+- [Introduction to Bash](./day-1.qmd)
+- [Introduction to Git](day-2.qmd) (not required but recommended)

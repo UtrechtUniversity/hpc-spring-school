@@ -69,7 +69,7 @@ Contact one of the following support teams to get access to HPC facilities:
 
 <br><br>
 
-## [Programme](programme/index.qmd)
+## Programme
 
 ::: {#programme}
 :::

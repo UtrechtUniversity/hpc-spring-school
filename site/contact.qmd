@@ -59,7 +59,7 @@ For any questions related to this Spring School, please contact the [Research En
 
 <br><br>
 
-## [Programme](programme/index.qmd)
+## Programme
 
 ::: {#programme}
 :::

@@ -1,0 +1,31 @@
+---
+title: Extended Introduction to SURF Research Cloud
+subtitle: "9:00 - 12:30"
+date: "16 May 2025"
+author: "UU support"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
+categories:
+  - VRE
+  - Cloud
+image: ../img/icons8-workshop-96.png
+image-alt: "data center"
+execute: 
+  cache: true
+  freeze: true
+---
+
+Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution.
+
+During this extended introduction to the SURF Research Cloud, you will learn how to:
+
+- Manage your project using [SRAM]()
+- Create workspaces (aka VRE/Servers/VMs) in the Research Cloud portal
+- Interactively work with your workspace via the browser and command
+- Transfer data to and from your workspace
+- Installing software on your workspace (e.g. python or R packages)
+
+Prerequisites:
+
+- none, but [Introduction to Bash](./day-1.qmd) and [Introduction to Git](day-2.qmd) are recommended they will increase your options to efficiently work with the workspaces.

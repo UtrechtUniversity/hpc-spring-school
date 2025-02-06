@@ -25,4 +25,9 @@ The aim of this workshop is to provide an introduction to the Bash shell. We wil
 - File and directory navigation
 - File editing
 - Logging in to remote machines
+- Transferring files
 - Running scripts
+
+# Prerequisites
+
+- A laptop with a terminal. On Windows we recommend installing Git Bash. [More info](https://utrechtuniversity.github.io/workshop-computational-reproducibility/chapters/terminal.html)

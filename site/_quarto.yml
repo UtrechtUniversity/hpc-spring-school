@@ -44,7 +44,10 @@ format:
         - cosmo
         - styles/theme-light.scss
         - styles/uu.scss
-      dark: [cosmo, styles/theme-dark.scss]
+      dark: 
+        - cosmo
+        - styles/theme-dark.scss
+        - styles/uu.scss
 
 
     
