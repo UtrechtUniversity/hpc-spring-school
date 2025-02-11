@@ -1,6 +1,6 @@
 ---
 title: SURF Research Cloud; beginner and advanced modules
-subtitle: "9:00 - 17:00"
+subtitle: "9:00 - 16:30"
 date: "16 May 2025"
 author: "UU support"
 language: 

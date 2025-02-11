@@ -1,6 +1,6 @@
 ---
 title: Introduction to Git
-subtitle: "9:00 - 14:30"
+subtitle: "9:00 - 12:30"
 date: "13 May 2025"
 author: "UU support"
 language: 

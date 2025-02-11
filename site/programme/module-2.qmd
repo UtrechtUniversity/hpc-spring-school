@@ -1,6 +1,6 @@
 ---
 title: Automating workflows using the Research Cloud API
-subtitle: "13:30 - 17:00"
+subtitle: "13:30 - 16:30"
 date: "16 May 2025"
 author: "SURF"
 language: 
