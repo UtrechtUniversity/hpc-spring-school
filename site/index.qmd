@@ -2,7 +2,7 @@
 pagetitle: "HPC Spring School"
 page-layout: full
 search: true
-image: img/data-center.jpg
+image: img/parallel-trains.jpg
 image-alt: "Data center"
 repo-actions: [edit, issue]
 
