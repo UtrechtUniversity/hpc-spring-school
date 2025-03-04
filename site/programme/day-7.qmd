@@ -43,3 +43,4 @@ We will give you a complete overview on how to optimize the use of computing sys
 
 Your own laptop with an up-to-date browser and a terminal emulator. The use of the operating systems Linux and macOS is preferred, but not mandatory. For Windows users we recommend to download MobaXterm (portable version) as terminal emulator.
 
+<a href="https://bookings.uu.nl/event/4346946" class="button">Register here!</a>

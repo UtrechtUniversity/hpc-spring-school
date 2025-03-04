@@ -1,5 +1,5 @@
 ---
-title: Basic Parallel Programming with MPI and OpenMP
+title: Basic Parallel Programming with MPI
 subtitle: "9:00 - 17:00"
 date: "19 May 2025"
 author: "SURF"
@@ -17,7 +17,7 @@ execute:
   freeze: true
 ---
 
-This basic course is focused on providing an introduction to parallel programming using the most widely used approaches: Message Passing Interface (MPI) and Open Multi-Processing (OpenMP).
+This basic course is focused on providing an introduction to parallel programming using the most widely used approaches: Message Passing Interface (MPI) and Open Multi-Processing (OpenMP). The focus will be mostly on MPI.
 
 You will start exploring the benefits (and limitations) of parallel programming, and then you will explore the possibilities that task and data parallelism offer to develop multi-core and multi-node programs. Each session includes hands-on exercises to facilitate the understanding of the different constructs. As a participant, you have already some familiarity with C, Fortran or Python programming, and in these two days you will be able to start the development of your own parallel application.
 
@@ -29,3 +29,4 @@ The materials for this course have been [developed at HLRS by Dr. Rolf Rabenseif
 - [Introduction to Bash](./day-1.qmd)
 - Knowledge of either C/C++, Fortran or Python programming language is necessary.
 
+<a href="https://bookings.uu.nl/event/4346944" class="button">Register here!</a>

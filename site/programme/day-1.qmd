@@ -31,3 +31,5 @@ The aim of this workshop is to provide an introduction to the Bash shell. We wil
 # Prerequisites
 
 - A laptop with a terminal. On Windows we recommend installing Git Bash. [More info](https://utrechtuniversity.github.io/workshop-computational-reproducibility/chapters/terminal.html)
+
+<a href="https://bookings.uu.nl/event/4346936" class="button">Register here!</a>

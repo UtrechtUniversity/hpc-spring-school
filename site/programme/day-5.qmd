@@ -35,7 +35,7 @@ listing:
 
 Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution.
 
-This workshop day will consist of two modules (beginner and advanced) for which you can register separately. Click on the module of your interest to read more information and to register.: 
+This workshop day will consist of two modules (beginner and advanced) for which you can register separately. Click on the module of your interest to read more information.: 
 
 ## Modules
 
@@ -47,7 +47,7 @@ This workshop day will consist of two modules (beginner and advanced) for which 
 
 - You can register for the advanced sessions of your interest.
 
-**Are you a new user with a solid technical or programming background (e.g. bash, git)?**
+**Are you a new user with a solid technical background (e.g. bash, python, and some knowledge of APIs)?**
 
 - You can register for both the basic and advanced sessions.
 
@@ -55,3 +55,4 @@ This workshop day will consist of two modules (beginner and advanced) for which 
 
 - You can register for the Getting started session.
 
+<a href="https://bookings.uu.nl/event/4346943" class="button">Register here!</a>

@@ -40,3 +40,5 @@ Everyone interested in getting familiar with machine learning at scale, from the
 - Basic knowledge on Python programming. Some experience with the use of Jupyter Notebooks is desirable, but not essential.
 
 Basic knowledge on parallel computing is helpful, but not required.
+
+<a href="https://bookings.uu.nl/event/4346947" class="button">Register here!</a>

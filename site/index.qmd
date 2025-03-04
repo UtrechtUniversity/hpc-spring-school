@@ -60,8 +60,9 @@ The HPC Spring School will take place from Monday 12 May till Thursday 22 May at
 
 <br><br>
 
-<iframe src="https://survey.uu.nl/jfe/form/SV_2i5biYmQ2UZsvPM" height="500px" width="1000px"></iframe>
+## Registration Open
 
+The registration is open for researchers and students in the Netherlands. You can design your own program and register for one or multiple workshops of your interest. Each workshop has their own registration form, find the registration forms by clicking on the workshop in the program below. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
 
 ## Programme
 

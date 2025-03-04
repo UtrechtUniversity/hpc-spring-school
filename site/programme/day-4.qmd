@@ -26,3 +26,5 @@ Prerequisites:
 - [Introduction to Supercomputing 1](./day-3.qmd)
 
 If you already possess the knowledge of the above-mentioned prerequisites, you can register for this course.
+
+<a href="https://bookings.uu.nl/event/4346942" class="button">Register here!</a>

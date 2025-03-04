@@ -24,6 +24,7 @@ Automating your workflows will not only improve your efficiency, but also reprod
 
 Prerequisites:
 
+- This workshop is suitable for people with a technical background, some knowledge of using APIs (e.g. REST API) or http requests is definitely helpful
 - Programming skills in e.g. Python
 - Experience in using SURF Research Cloud (e.g. [Extended Introduction to SURF Research Cloud](./module-1.qmd))
 - [Introduction to Bash](./day-1.qmd)

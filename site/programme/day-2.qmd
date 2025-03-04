@@ -30,3 +30,5 @@ This workshop is a prerequisite for most of the other workshops in this Spring S
 
 - A laptop with Git installed and a GitHub account [Instructions](https://utrechtuniversity.github.io/workshop-computational-reproducibility/chapters/git-and-github.html)
 - Basic knowledge of the command line (e.g. [Introduction to Bash](/programme/day-1)).
+
+<a href="https://bookings.uu.nl/event/4346938" class="button">Register here!</a>
