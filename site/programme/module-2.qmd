@@ -29,3 +29,5 @@ Prerequisites:
 - Experience in using SURF Research Cloud (e.g. [Extended Introduction to SURF Research Cloud](./module-1.qmd))
 - [Introduction to Bash](./day-1.qmd)
 - [Introduction to Git](day-2.qmd) (not required but recommended)
+
+**Find the registration link on the [main page](day-5.qmd) of this day**

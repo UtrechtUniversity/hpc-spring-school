@@ -8,8 +8,6 @@ language:
   title-block-published: "Date"
 categories:
   - HPC
-  - VRE
-  - Cloud
 image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 

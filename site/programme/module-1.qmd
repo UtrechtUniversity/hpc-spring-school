@@ -16,16 +16,19 @@ execute:
   freeze: true
 ---
 
-Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution.
+Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power (CPU or GPU)? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then a Virtual Research Environment (VRE) in SURF Research Cloud is your solution.
 
 During this extended introduction to the SURF Research Cloud, you will learn how to:
 
 - Manage your project using [SRAM]()
 - Create workspaces (aka VRE/Servers/VMs) in the Research Cloud portal
-- Interactively work with your workspace via the browser and command
+- Interactively work with your workspace via the browser and command line
 - Transfer data to and from your workspace
 - Installing software on your workspace (e.g. python or R packages)
+- Run your first script!
 
 Prerequisites:
 
-- none, but [Introduction to Bash](./day-1.qmd) and [Introduction to Git](day-2.qmd) are recommended they will increase your options to efficiently work with the workspaces.
+- none, but [Introduction to Bash](./day-1.qmd) and [Introduction to Git](day-2.qmd) are recommended as they will increase your options to efficiently work with the workspaces.
+
+**Find the registration link on the [main page](day-5.qmd) of this day**
