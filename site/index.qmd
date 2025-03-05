@@ -16,7 +16,9 @@ listing:
     contents: 
     - /programme/day-*.qmd
     type: table
-    sort: "date asc"
+    sort: 
+    - "date asc"
+    - "title asc"
     fields: [image, date, subtitle, title, author]
     field-display-names:
       date: "Date"
