@@ -17,6 +17,4 @@ execute:
 
 The Programming cafe is an informal monthly meetup facilitated by RDM Support. Each Programming cafe has a special theme, and in May the theme will be very much related to the HPC Spring School, namely: Containers!
 
-:::{.callout-note}
-Registration link will follow soon!
-:::
+<a href="https://www.uu.nl/en/events/programming-cafe-15-may-2025" class="button">More Information!</a>
