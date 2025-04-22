@@ -15,6 +15,16 @@ listing:
   - id: programme
     contents: 
     - /programme/day-*.qmd
+    - path: https://bookings.uu.nl/event/4369912
+      title: "UDCC Forum: Edge Computing"
+      subtitle: "10:00 - 12:00"
+      date: "13 May 2025"
+      author: "UDCC"
+      language: 
+        title-block-author-single: "Organizer"
+        title-block-published: "Date"
+      image: ../img/icons8-university-96.png
+      image-alt: "data center"
     type: table
     sort: 
     - "date asc"
@@ -29,6 +39,44 @@ listing:
     sort-ui: false
     filter-ui: false
 
+  - id: organization
+    contents:
+    - subtitle: "**Lukas van de Wiel**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=16013&t=
+      path: https://www.uu.nl/staff/LYvandeWiel
+    - subtitle: "**Christine Staiger**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=67209&t=
+      path: https://www.uu.nl/staff/CStaiger
+    - subtitle: "**Dawa Ometto**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=
+      path: https://www.uu.nl/medewerkers/DLAOmetto
+    - subtitle: "**Vivian Haalboom-Vreugdenburg**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=51524&t=
+      path: https://www.uu.nl/staff/VMJHaalboomVreugdenburg
+    - subtitle: "**Shiva Nadi**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=
+      path: https://www.uu.nl/medewerkers/SNadiNajafabadi
+    - subtitle: "**Martine de Vos**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=50539&t=
+      path: https://www.uu.nl/medewerkers/MGdeVos
+    - subtitle: "**Jelle Treep**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=16591&t=
+      path: https://www.uu.nl/medewerkers/HJTreep
+
+
+    type: grid
+    image-height: 300px
+    grid-columns: 5
+    fields: [image, subtitle, description]
+    
+
   - id: support
     contents:
     - path: https://eurocc-netherlands.nl/
@@ -39,6 +87,10 @@ listing:
       image: img/surf_logo/SURF%20fc%20logo's/SURF_fc.svg
       title: "**SURF**"
       description: "SURF is a cooperative association of Dutch educational and research institutions in which the members combine their strengths. Within SURF, we work together to acquire or develop the best possible digital services, and to encourage knowledge sharing through continuous innovation. The members are the owners of SURF."
+    - path: https://www.uu.nl/en/research/digital-competence-center
+      image: https://www.uu.nl/sites/default/files/cm_hs_avatar_corporate.png
+      title: "**UDCC**"
+      description: "The UDCC (Utrecht Digital Competence Center) is the network of all support teams at Utrecht University for help with research data, software, and infrastructure. We exist to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. "
     type: grid
     categories: false
     max-items: 3
@@ -69,6 +121,11 @@ The registration is open for all researchers in the Netherlands. There is a limi
 ## Programme
 
 ::: {#programme}
+:::
+
+## Trainers and organizing team
+
+::: {#organization .g-col-12}
 :::
 
 ## Supported by

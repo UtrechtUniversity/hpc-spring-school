@@ -2,7 +2,7 @@
 title: Introduction to Git
 subtitle: "9:00 - 12:30"
 date: "13 May 2025"
-author: "UU support"
+author: "Christine Staiger (UU)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

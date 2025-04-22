@@ -2,7 +2,7 @@
 title: Programming Cafe; Containers in Cloud computing
 subtitle: "15:00 - 17:00"
 date: "15 May 2025"
-author: "UU RDM Support"
+author: "UDCC"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

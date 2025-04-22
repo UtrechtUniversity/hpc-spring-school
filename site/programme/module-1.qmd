@@ -2,7 +2,7 @@
 title: Extended Introduction to SURF Research Cloud
 subtitle: "9:00 - 12:30"
 date: "16 May 2025"
-author: "UU support"
+author: "Dawa Ometto (UU)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

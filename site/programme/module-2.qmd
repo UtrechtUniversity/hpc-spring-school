@@ -2,7 +2,7 @@
 title: Automating workflows using the Research Cloud API
 subtitle: "13:30 - 16:30"
 date: "16 May 2025"
-author: "SURF"
+author: "Carsten Schelp (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

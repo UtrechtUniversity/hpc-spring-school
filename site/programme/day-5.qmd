@@ -2,7 +2,7 @@
 title: SURF Research Cloud; beginner and advanced modules
 subtitle: "9:00 - 16:30"
 date: "16 May 2025"
-author: "UU support"
+author: "Dawa Ometto (UU), Carsten Schelp (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
