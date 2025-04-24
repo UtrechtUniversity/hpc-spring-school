@@ -23,8 +23,7 @@ listing:
       language: 
         title-block-author-single: "Organizer"
         title-block-published: "Date"
-      image: ../img/icons8-university-96.png
-      image-alt: "data center"
+      image: img/icons8-university-96.png
     type: table
     sort: 
     - "date asc"
