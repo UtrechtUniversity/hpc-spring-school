@@ -1,8 +1,8 @@
 ---
-title: Programming Cafe; Containers in Cloud computing
+title: Programming Cafe; Containers in the Cloud
 subtitle: "15:00 - 17:00"
 date: "15 May 2025"
-author: "UDCC"
+author: "UDCC, Giorgos Damaskos (Centre for Digital Humanities, UU)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

@@ -2,7 +2,7 @@
 title: Energy Efficient Computing
 subtitle: "9:00 - 14:30"
 date: "21 May 2025"
-author: "SURF"
+author: "Benjamin Czaja (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

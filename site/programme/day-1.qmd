@@ -2,7 +2,7 @@
 title: Introduction to Bash and essential skills for HPC
 subtitle: "9:00 - 14:30"
 date: "12 May 2025"
-author: "Lukas van de Wiel (UU), Jelle Treep (UU)"
+author: "Lukas van de Wiel (Geosciences, UU), Jelle Treep (UU)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

@@ -2,7 +2,7 @@
 title: Introduction to Supercomputing 1
 subtitle: "9:00 - 14:30"
 date: "14 May 2025"
-author: "SURF"
+author: "Carlos Teijeiro Barjas (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

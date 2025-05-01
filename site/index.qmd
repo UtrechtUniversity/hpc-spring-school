@@ -33,33 +33,62 @@ listing:
       date: "Date"
       subtitle: "Time"
       title: "Workshop"
-      author: "Presenter"
+      author: "Trainer(s)"
     date-format: "MMMM DD, YYYY"
     sort-ui: false
     filter-ui: false
 
   - id: organization
     contents:
-    - subtitle: "**Lukas van de Wiel**"
-      description: Utrecht University
-      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=16013&t=
-      path: https://www.uu.nl/staff/LYvandeWiel
+
     - subtitle: "**Christine Staiger**"
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=67209&t=
       path: https://www.uu.nl/staff/CStaiger
+    - subtitle: "**Monica Rotulo**"
+      description: SURF, EuroCC Netherlands
+      image: https://media.licdn.com/dms/image/v2/D4E03AQEDixcBCgq-HQ/profile-displayphoto-shrink_200_200/B4EZStbc.8HcAc-/0/1738076443474?e=1751500800&v=beta&t=JNnLGPv8G_rINQwhVqNXc5_TzzjpSL7PQAlEH0vnMwo
+      path: https://www.linkedin.com/in/monicarotulo/
+    - subtitle: "**Carsten Schelp**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/C4E03AQHGWgMwZSIzHA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557737436782?e=1751500800&v=beta&t=dxEa9BGn-xRGiH8Cf5HMAf5yfuCIsKmp4t2_djGypxU
+      path: https://www.linkedin.com/in/carsten-schelp-a51a7611/
+    - subtitle: "**Orsolya Kardos**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/D5603AQGPQDE9icdexw/profile-displayphoto-shrink_200_200/B56ZSnq_ogHQAY-/0/1737979854274?e=1751500800&v=beta&t=TW7Q7Ip0ZuIjaZjQenYUyNEel5y8Tqm7RcMoKOluKqo
+      path: https://www.linkedin.com/in/orsolyakardos/?originalSubdomain=nl
     - subtitle: "**Dawa Ometto**"
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=
       path: https://www.uu.nl/medewerkers/DLAOmetto
-    - subtitle: "**Vivian Haalboom-Vreugdenburg**"
-      description: Utrecht University
-      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=51524&t=
-      path: https://www.uu.nl/staff/VMJHaalboomVreugdenburg
     - subtitle: "**Shiva Nadi**"
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=
       path: https://www.uu.nl/medewerkers/SNadiNajafabadi
+    - subtitle: "**Carlos Teijeiro Barjas**"
+      description: SURF, EuroCC Netherlands
+      image: https://media.licdn.com/dms/image/v2/C4D03AQF8z5YPjnSgUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517503258286?e=1751500800&v=beta&t=a1VrrXL-JXGmYmf8CqzYWcYtgsWjI_iuoiZq6NAN6tE
+      path: https://eurocc-netherlands.nl/carlos-teijeiro-barjas/
+    - subtitle: "**Benjamin Czaja**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/C5603AQGYp-mN_NM37g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1605011568679?e=1751500800&v=beta&t=npbFn8AoIfP0jyTivF8Qskdh6NyV0EsArBzbnGxpEA0
+      path: https://www.linkedin.com/in/benjamin-czaja/?originalSubdomain=nl
+    - subtitle: "**Lukas van de Wiel**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=16013&t=
+      path: https://www.uu.nl/staff/LYvandeWiel
+    - subtitle: "**Maxim Masterov**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/C4D03AQGsxp15ckeHZQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1539165186862?e=1751500800&v=beta&t=4Pm9mf9CKYaaCTkfrvPeUo2VcsaqP-sS2gumiePvgY4
+      path: https://www.linkedin.com/in/maxim-masterov/
+    - subtitle: "**Lars Veefkind**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/C4D03AQEBula-9CinTg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1617841783569?e=1751500800&v=beta&t=PQzGwNeYyCs2duk06OWjvOA0sfRdq39ffPxQGKMysG0
+      path: https://www.linkedin.com/in/lars-veefkind/
+    - subtitle: "**Vivian Haalboom-Vreugdenburg**"
+      description: Utrecht University
+      image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=51524&t=
+      path: https://www.uu.nl/staff/VMJHaalboomVreugdenburg
     - subtitle: "**Martine de Vos**"
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=50539&t=
