@@ -61,6 +61,10 @@ listing:
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=
       path: https://www.uu.nl/medewerkers/DLAOmetto
+    - subtitle: "**Simone van Bruggen**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/C5603AQHYZLvRH4_Jog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613743660130?e=1752710400&v=beta&t=uJVbQ1mRONNS30aYHrbDJoa0TCFgSMn8uxVqcznoHtA
+      path: https://www.linkedin.com/in/simone-van-bruggen-2ba69740/
     - subtitle: "**Shiva Nadi**"
       description: Utrecht University
       image: https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=
@@ -69,6 +73,10 @@ listing:
       description: SURF, EuroCC Netherlands
       image: https://media.licdn.com/dms/image/v2/C4D03AQF8z5YPjnSgUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517503258286?e=1751500800&v=beta&t=a1VrrXL-JXGmYmf8CqzYWcYtgsWjI_iuoiZq6NAN6tE
       path: https://eurocc-netherlands.nl/carlos-teijeiro-barjas/
+    - subtitle: "**Thomas van Osch**"
+      description: SURF
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGTKumvOctg8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721667060214?e=1752710400&v=beta&t=zDf7WMdjQtnpKJJvhicBXRN1Zkxw8JbadO608Yy1-M8
+      path: https://www.linkedin.com/in/thomas-van-osch/
     - subtitle: "**Benjamin Czaja**"
       description: SURF
       image: https://media.licdn.com/dms/image/v2/C5603AQGYp-mN_NM37g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1605011568679?e=1751500800&v=beta&t=npbFn8AoIfP0jyTivF8Qskdh6NyV0EsArBzbnGxpEA0
