@@ -2,7 +2,7 @@
 title: High Performance Deep learning
 subtitle: "9:00 - 17:00"
 date: "22 May 2025"
-author: "Monica Rotulo (SURF), Lars Veefkind (SURF)"
+author: "Monica Rotulo (SURF), Lars Veefkind (SURF), Simone van Bruggen (SURF), Thomas van Osch (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
@@ -21,7 +21,6 @@ During our hands-on sessions you will have the opportunity to work on our high-p
 
 ### Objectives:
 
-- Understand machine learning theories and algorithm intuitions
 - Optimize neural networks through hyperparameter tuning
 - setting ups software environment with modules
 - overcoming I/O limitations
@@ -36,6 +35,7 @@ Everyone interested in getting familiar with machine learning at scale, from the
 - Basic knowledge on statistics
 - Basic knowledge on linear algebra
 - Basic knowledge on Python programming. Some experience with the use of Jupyter Notebooks is desirable, but not essential.
+- Understand machine learning theories and algorithm intuitions
 
 Basic knowledge on parallel computing is helpful, but not required.
 
