@@ -12,6 +12,33 @@ about:
   id: hero-heading
 
 listing:
+  - id: programme
+    contents: 
+    - /programme/day-*.qmd
+    - path: https://bookings.uu.nl/event/4369912
+      title: "UDCC Forum: Edge Computing"
+      subtitle: "10:00 - 12:00"
+      date: "13 May 2025"
+      author: "UDCC"
+      language: 
+        title-block-author-single: "Organizer"
+        title-block-published: "Date"
+      image: img/icons8-university-96.png
+    type: table
+    sort: 
+    - "date asc"
+    - "title asc"
+    fields: [image, date, subtitle, title, author]
+    field-display-names:
+      date: "Date"
+      subtitle: "Time"
+      title: "Workshop"
+      author: "Trainer(s)"
+    date-format: "MMMM DD, YYYY"
+    sort-ui: false
+    filter-ui: false
+
+ 
   - id: support
     contents:
     - path: https://eurocc-netherlands.nl/
@@ -35,39 +62,7 @@ listing:
 ---
 
 
+## Programme 2025
 
-::: {#hero-heading}
-## HPC Spring School @ Utrecht University
-
-Are you ready to boost your skills in scientific computation, parallel programming, and deep learning? Then please take part in the HPC Spring School at Utrecht University!
-
-During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over eight days.
-
-The HPC Spring School will take place from 1 June till 12 June at Utrecht University; all sessions are in-person events. 
-
+::: {#programme}
 :::
-
-<br><br>
-
-## Pre-registration Open
-
-The program will be announced and the registration will be open in February 2026. Pre-register using the box below.
-
-<br><br>
-
-<iframe src="https://survey.uu.nl/jfe/form/SV_bEMHTdP03YlV32C" height="500px" width="1000px"></iframe>
-
-
-
-Registration is open for all researchers in the Netherlands. There is a limited number of spots for thesis students. You can design your own program and register for one or multiple workshops of your interest. Each workshop has their own registration form, find the registration forms by clicking on the workshop in the program below. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
-
-## Programme
-
-TBD, see the [program of 2025](./2025.qmd) to get an idea of what to expect. The 2026 will contain some of the same workshops and some different ones. In the 2026 the program will contain workshops on Git, Bash, Introduction to Supercomputing, Introduction to Research Cloud, Parallel programming and more!
-
-## Supported by
-:::{#support}
-:::
-
-
-
