@@ -55,7 +55,7 @@ The program will be announced and the registration will be open in February 2026
 
 <br><br>
 
-<iframe src="https://survey.uu.nl/jfe/form/SV_bEMHTdP03YlV32C" height="500px" width="1000px"></iframe>
+<iframe src="https://survey.uu.nl/jfe/form/SV_bEMHTdP03YlV32C" height="1000px" width="1000px"></iframe>
 
 
 
