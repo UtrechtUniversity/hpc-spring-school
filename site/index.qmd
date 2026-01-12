@@ -39,7 +39,7 @@ listing:
 ::: {#hero-heading}
 ## HPC Spring School @ Utrecht University
 
-Are you ready to boost your skills in scientific computation, parallel programming, and deep learning? Then please take part in the HPC Spring School at Utrecht University!
+Are you ready to boost your skills in scientific computation, parallel programming, and High Performance Computing? Then please take part in the HPC Spring School at Utrecht University!
 
 During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over eight days.
 
