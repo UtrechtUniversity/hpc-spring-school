@@ -1,7 +1,7 @@
 ---
 title: Introduction to Supercomputing 1
 subtitle: "9:00 - 14:30"
-date: "14 May 2025"
+date: "3 June 2026"
 author: "Carlos Teijeiro Barjas (SURF)"
 language: 
   title-block-author-single: "Taught by"
@@ -31,9 +31,9 @@ In this training you will
 Prerequisites: 
 
 - [Introduction to Bash](./day-1.qmd)
-- [Introduction to Git](./day-2.qmd)
+- [Introduction to Git](./day-2-git.qmd)
 
 If you already possess the knowledge of the above-mentioned prerequisites, you can register for this course.
 
-<a href="https://bookings.uu.nl/event/4346941" class="button">Register here!</a>
+<!-- <a href="https://bookings.uu.nl/event/4346941" class="button">Register here!</a> -->
 

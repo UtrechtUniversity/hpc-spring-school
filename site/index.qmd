@@ -11,7 +11,25 @@ about:
   image-width: 30em
   id: hero-heading
 
+
 listing:
+  - id: programme
+    contents: 
+    - /programme/day-*.qmd
+    type: table
+    sort: 
+    - "date asc"
+    - "title asc"
+    fields: [image, date, subtitle, title, author]
+    field-display-names:
+      date: "Date"
+      subtitle: "Time"
+      title: "Workshop"
+      author: "Trainer(s)"
+    date-format: "MMMM DD, YYYY"
+    sort-ui: false
+    filter-ui: false
+
   - id: support
     contents:
     - path: https://eurocc-netherlands.nl/
@@ -41,7 +59,7 @@ listing:
 
 Are you ready to boost your skills in scientific computation, parallel programming, and High Performance Computing? Then please take part in the HPC Spring School at Utrecht University!
 
-During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over eight days.
+During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over ten days.
 
 The HPC Spring School will take place from 1 June till 12 June at Utrecht University; all sessions are in-person events. 
 
@@ -51,19 +69,19 @@ The HPC Spring School will take place from 1 June till 12 June at Utrecht Univer
 
 ## Pre-registration Open
 
-The program will be announced and the registration will be open in February 2026. Pre-register using the box below, you will then receive an email notification when the programme is published and registration opens!
+The program will be announced and the registration will be open within a week from now. Pre-register using the box below, you will then receive an email notification when the programme is published and registration opens!
 
 <br><br>
 
 <iframe src="https://survey.uu.nl/jfe/form/SV_bEMHTdP03YlV32C" height="1000px" width="1000px"></iframe>
 
 
+Registration is open for all researchers in the Netherlands. There is a limited number of spots for thesis students. You can design your own program and register for one or multiple workshops of your interest. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
 
-Registration is open for all researchers in the Netherlands. There is a limited number of spots for thesis students. You can design your own program and register for one or multiple workshops of your interest. Each workshop has their own registration form, find the registration forms by clicking on the workshop in the program below. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
+## Programme (UNDER CONSTRUCTION, expected live date 11 march)
 
-## Programme
-
-TBD, see the [program of 2025](./2025.qmd) to get an idea of what to expect. The 2026 will contain some of the same workshops and some different ones. In the 2026 the program will contain workshops on Git, Bash, Introduction to Supercomputing, Introduction to Research Cloud, Parallel programming and more!
+::: {#programme}
+:::
 
 ## Supported by
 :::{#support}

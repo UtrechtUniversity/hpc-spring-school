@@ -1,0 +1,32 @@
+---
+title: GPU computing 1
+subtitle: "9:00 - 17:00"
+date: "11 June 2026"
+author: "(SURF)"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
+categories:
+  - HPC
+image: ../img/icons8-workshop-96.png
+image-alt: "data center"
+execute: 
+  cache: true
+  freeze: true
+---
+
+### What will you learn?
+
+Learn how to accelerate Python workloads on GPUs (Part I): Understand the fundamentals and compare the performance of scientific applications.
+
+### Objectives:
+
+
+### For Whom?
+
+
+### Prerequisites
+
+
+
+<!-- <a href="link" class="button">Register here!</a> -->

@@ -1,0 +1,32 @@
+---
+title: SURF Research Cloud; extended workshop
+subtitle: "13:00 - 16:30"
+date: "2 June 2026"
+author: "Dawa Ometto (UU)"
+language: 
+  title-block-author-single: "Taught by"
+  title-block-published: "Date"
+categories:
+  - VRE
+  - Cloud
+image: ../img/icons8-workshop-96.png
+image-alt: "data center"
+execute: 
+  cache: true
+  freeze: true
+  
+---
+
+Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution. You can choose to work on several tutorials depending on what is relevant for you:
+
+- Best practices when working with R and Python
+- Experimenting with different R/Python workflows
+- How to work with your coding assistant on the SURF Research Cloud
+- Data transfer methods
+
+## Prerequisites
+
+- A laptop with Git installed and a GitHub account [Instructions](https://utrechtuniversity.github.io/workshop-computational-reproducibility/chapters/git-and-github.html)
+- Basic knowledge of the command line (e.g. [Introduction to Bash](/programme/day-1)).
+
+<!-- <a href="link" class="button">Register here!</a> -->

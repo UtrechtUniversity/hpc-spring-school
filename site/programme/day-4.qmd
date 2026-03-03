@@ -1,8 +1,8 @@
 ---
-title: Introduction to Supercomputing 2 
-subtitle: "9:00 - 14:30"
-date: "15 May 2025"
-author: "Maksim Masterov (SURF)"
+title: Parallel Programming with Python (day 1)
+subtitle: "9:00 - 17:00"
+date: "4 June 2026"
+author: "Johan Hidding (eScienceCenter), Leon Oostrum (eScienceCenter)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
@@ -15,16 +15,20 @@ execute:
   freeze: true
 ---
 
-Using a high-performance computing system in the most effective and efficient way is not an easy task. Therefore, this course brings a follow-up to the first introductory Supercomputing course (part 1), where you can take a deeper dive into the use of supercomputers with a special focus on efficiency and good practices and a very practical approach.
+Did you write code in Python and is it not fast enough? Do you run code, but are you running out of memory? If you want your code to make optimal use of your computing resources (whether it is your own laptop or an HPC system), then parallellizing your code might be the solution.
 
-[More information](https://eurocc-netherlands.nl/portfolio/introduction-to-supercomputing-part-2/)
+In this course we show several ways of speeding up your program and making it run in parallel. We introduce the following modules:
+
+- `threading` (allows different parts of your program to run concurrently on a single computer with shared memory).
+- `dask` makes scalable parallel computing easy.
+- `numba` speeds up your Python functions by translating them to optimized machine code.
+- `memory_profile` monitors memory performance.
 
 Prerequisites: 
 
-- [Introduction to Bash](./day-1.qmd)
-- [Introduction to Git](./day-2.qmd)
-- [Introduction to Supercomputing 1](./day-3.qmd)
+- This is an intermediate level Python course. 
+- We expect familiarity with the command-line, and that you are comfortable working with a coding text editor (like for instance, VS Code).
+- This is a two-day workshop (4 and 5 June), it is not possible to join only one day.
 
-If you already possess the knowledge of the above-mentioned prerequisites, you can register for this course.
 
-<a href="https://bookings.uu.nl/event/4346942" class="button">Register here!</a>
+<!-- <a href="link" class="button">Register here!</a> -->

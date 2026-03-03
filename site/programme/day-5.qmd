@@ -1,58 +1,34 @@
 ---
-title: SURF Research Cloud; beginner and advanced modules
-subtitle: "9:00 - 16:30"
-date: "16 May 2025"
-author: "Dawa Ometto (UU), Carsten Schelp (SURF), Orsolya Kardos (SURF)"
+title: Parallel Programming with Python (day 2)
+subtitle: "9:00 - 17:00"
+date: "5 June 2026"
+author: "Johan Hidding (eScienceCenter), Leon Oostrum (eScienceCenter)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
 categories:
-  - VRE
-  - Cloud
+  - HPC
 image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
   cache: true
   freeze: true
-  
-listing:
-  - id: modules
-    contents: 
-    - /module-*.qmd
-    type: table
-    sort: "date asc"
-    fields: [image, subtitle, title, author]
-    field-display-names:
-      date: "Date"
-      subtitle: "Time"
-      title: "Workshop"
-      author: "Presenter"
-    date-format: "MMMM DD, YYYY"
-    sort-ui: false
-    filter-ui: false
-
 ---
 
-Do you need a platform where you can work interactively with your software? Do you have high requirements for compute power? Or do you want a platform where you can work collaboratively on code and (sensitive) data? Then the Virtual Research Environment (VRE) is your solution.
+Did you write code in Python and is it not fast enough? Do you run code, but are you running out of memory? If you want your code to make optimal use of your computing resources (whether it is your own laptop or an HPC system), then parallellizing your code might be the solution.
 
-This workshop day will consist of two modules (beginner and advanced) for which you can register separately. Click on the module of your interest to read more information.: 
+In this course we show several ways of speeding up your program and making it run in parallel. We introduce the following modules:
 
-## Modules
+- `threading` (allows different parts of your program to run concurrently on a single computer with shared memory).
+- `dask` makes scalable parallel computing easy.
+- `numba` speeds up your Python functions by translating them to optimized machine code.
+- `memory_profile` monitors memory performance.
 
-::: {#modules}
-:::
+Prerequisites: 
+
+- This is an intermediate level Python course. 
+- We expect familiarity with the command-line, and that you are comfortable working with a coding text editor (like for instance, VS Code).
+- This is a two-day workshop (4 and 5 June), it is not possible to join only one day.
 
 
-**Are you an existing user of SURF Research cloud?**
-
-- You can register for the advanced sessions of your interest.
-
-**Are you a new user with a solid technical background (e.g. bash, python, and some knowledge of APIs)?**
-
-- You can register for both the basic and advanced sessions.
-
-**Are you a new or beginning user of SURF Research cloud without a technical background?**
-
-- You can register for the Getting started session.
-
-<a href="https://bookings.uu.nl/event/4346943" class="button">Register here!</a>
+<!-- <a href="link" class="button">Register here!</a> -->

@@ -1,8 +1,8 @@
 ---
-title: High Performance Deep learning
+title: Distributed Computing
 subtitle: "9:00 - 17:00"
-date: "22 May 2025"
-author: "Monica Rotulo (SURF), Lars Veefkind (SURF), Simone van Bruggen (SURF), Thomas van Osch (SURF)"
+date: "10 June 2026"
+author: ""
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
@@ -15,28 +15,4 @@ execute:
   freeze: true
 ---
 
-### What will you learn?
 
-During our hands-on sessions you will have the opportunity to work on our high-performance systems with different types of data, and learn how to tune your model to obtain optimal results in the most efficient way. The workshop will cover basic deep learning knowledge as well as training neural networks on high-performance computing clusters.
-
-### Objectives:
-
-- Optimize neural networks through hyperparameter tuning
-- setting ups software environment with modules
-- overcoming I/O limitations
-- Profiling and efficient usage of CPU/GPU capabilities
-
-### For Whom?
-
-Everyone interested in getting familiar with machine learning at scale, from the beginning up to more advanced topics
-
-### Prerequisites
-
-- Basic knowledge on statistics
-- Basic knowledge on linear algebra
-- Basic knowledge on Python programming. Some experience with the use of Jupyter Notebooks is desirable, but not essential.
-- Understand machine learning theories and algorithm intuitions
-
-Basic knowledge on parallel computing is helpful, but not required.
-
-<a href="https://bookings.uu.nl/event/4346947" class="button">Register here!</a>

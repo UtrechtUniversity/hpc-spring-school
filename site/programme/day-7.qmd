@@ -1,15 +1,13 @@
 ---
-title: Energy Efficient Computing
+title: Introduction to Supercomputing 3
 subtitle: "9:00 - 14:30"
-date: "21 May 2025"
-author: "Benjamin Czaja (SURF)"
+date: "9 June 2026"
+author: "(SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
 categories:
   - HPC
-  - VRE
-  - Cloud
 image: ../img/icons8-workshop-96.png
 image-alt: "data center"
 execute: 
@@ -17,22 +15,9 @@ execute:
   freeze: true
 ---
 
-Did you know that an optimal use of applications or code development can have an impact in the environment? The energy usage of computing infrastructure is becoming an increasingly prominent topic for computing systems design and usage. In this course you will learn about the basics behind energy efficient computing.
 
-### What?
 
-This course will cover tools and technologies that allow a user/software-developer to understand their energy usage in terms of energy analysis of the software that is being deployed on the system.
 
-We will give you a complete overview on how to optimize the use of computing systems and application development for the purpose of energy efficiency, rather than keeping a focus on performance or memory usage. You will learn how to do green coding and work with applications in a sustainable way. Some of the main topics will include:
-
-- Overview of the data center energy footprint
-- Energy usage and energy-aware computing on HPC systems
-- Large-scale application performance and energy analysis
-- Application characterization and optimization for energy efficiency
-
-### Who?
-
-- Everyone interested in learning how to understand energy usage of their software.
 
 ### Requirements:
 
@@ -43,4 +28,4 @@ We will give you a complete overview on how to optimize the use of computing sys
 
 Your own laptop with an up-to-date browser and a terminal emulator. The use of the operating systems Linux and macOS is preferred, but not mandatory. For Windows users we recommend to download MobaXterm (portable version) as terminal emulator.
 
-<a href="https://bookings.uu.nl/event/4346946" class="button">Register here!</a>
+<!-- <a href="link" class="button">Register here!</a> -->
