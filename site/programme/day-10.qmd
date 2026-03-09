@@ -1,6 +1,6 @@
 ---
 title: GPU computing 2
-subtitle: "9:00 - 17:00"
+subtitle: "9:30 - 16:00"
 date: "12 June 2026"
 author: "(SURF)"
 language: 
@@ -18,16 +18,6 @@ execute:
 ### What will you learn?
 
 Learn how to accelerate Python workloads on GPUs (Part II): Optimise parallel execution and identify performance bottlenecks.
-
-
-### Objectives:
-
-
-
-### For Whom?
-
-
-### Prerequisites
 
 
 <!-- <a href="link" class="button">Register here!</a> -->

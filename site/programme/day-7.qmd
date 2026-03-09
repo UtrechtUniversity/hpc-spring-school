@@ -1,5 +1,5 @@
 ---
-title: Introduction to Supercomputing 3
+title: Introduction to Supercomputing 3; Performance analysis and hybrid jobs
 subtitle: "9:00 - 14:30"
 date: "9 June 2026"
 author: "(SURF)"
@@ -15,14 +15,23 @@ execute:
   freeze: true
 ---
 
+This training will cover the following topics:
+
+## Performance analysis
+
+There are several aspects to consider when optimizing the performance of your job on an HPC system. In this module, 
 
 
+## Hybrid jobs
+
+In this module, we will dive deeper into the Slurm resource manager, focusing on understanding key parameters for efficient parallel job scheduling, including threads, cores, sockets, nodes, and processes. Our goal is to connect to the Snellius supercomputer and explore hybrid job execution, which leverages both shared-memory (OpenMP) and distributed-memory (MPI) parallelism.
 
 
 ### Requirements:
 
 - [Introduction to Bash](./day-1.qmd)
-- Basic programming experience is recommended
+- [Introduction to Supercomputing 1](./day-3.qmd)
+- [Introduction to Supercomputing 2](./day-6.qmd)
 
 ### You should have:
 

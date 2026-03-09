@@ -1,5 +1,5 @@
 ---
-title: Introduction to Supercomputing 2
+title: Introduction to Supercomputing 2; Filesystems and parrallel jobs
 subtitle: "9:00 - 14:30"
 date: "8 June 2026"
 author: "(SURF)"
@@ -15,11 +15,21 @@ execute:
   freeze: true
 ---
 
+This training will cover the following topics:
+
+## File systems
+
+How to do data management on an HPC cluster and how to use the different file systems in your benefit if you need good performance.
+
+## Embarrassingly Parallel workflows and how to execute them
+
+This module will cover methods for executing many independent jobs in parallel (e.g. using Slurm array jobs,  Background processes, and QCG-PilotJob)
 
 
 ### Prerequisites
 
 - Please bring your own laptop (with an ssh client installed (e.g. MobaXterm)) for the hands-on sessions!
 - [Introduction to Bash](./day-1.qmd)
+- [Introduction to Supercomputing 1](./day-3.qmd)
 
 <!-- <a href="link" class="button">Register here!</a> -->
