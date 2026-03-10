@@ -2,7 +2,7 @@
 title: Distributed Computing
 subtitle: "9:00 - 17:00"
 date: "10 June 2026"
-author: ""
+author: "Lukas van de Wiel (Geosciences, UU)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
@@ -15,4 +15,17 @@ execute:
   freeze: true
 ---
 
+
+The [Parallel programming in Python workshop](./day-4.qmd) gets you up to speed with parallellizing your Python code on a single compute node (e.g. with 16 or 128 CPU cores). If you wish to distribute work accross multiple compute nodes then this workshop is for you! 
+
+MPI (Message Passing Interface) is the standard for writing parallel code where communication is necessary between parallel processes. 
+
+In this workshop you will learn the basics of writing an MPI-parallelized code using Python or Fortran.
+
+## Prerequisites:
+
+- [Introduction to Bash](./day-1.qmd)
+- [Introduction to Supercomputing 1](./day-3.qmd)
+- [Introduction to Supercomputing 3](./day-7.qmd)
+- suggested: [Parallel Programming in Python](day-4.qmd)
 
