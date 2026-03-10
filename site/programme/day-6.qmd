@@ -1,5 +1,5 @@
 ---
-title: Introduction to Supercomputing 2; Filesystems and parrallel jobs
+title: Introduction to Supercomputing 2; Filesystems and Performance Analysis
 subtitle: "9:00 - 14:30"
 date: "8 June 2026"
 author: "(SURF)"
@@ -15,18 +15,19 @@ execute:
   freeze: true
 ---
 
-This training will cover the following topics:
+## Fundamentals of performance analysis. 
 
-## File systems
+This introductory technical presentation introduces high-performance hybrid systems, abstractly covering the architecture and configuration of the system. Our aim is to enhance the understanding of HPC complexity before delving deeper into the importance of performance analysis models. Special attention is paid to the Roofline model.
 
-How to do data management on an HPC cluster and how to use the different file systems in your benefit if you need good performance.
+- Abstract Modelling hybrid supercomputers. Presenting an abstract modelling approach for hybrid supercomputers, condensing their complexity into three key parameters: peak performance, memory and network bandwidth.
+- Performance analysis. Explore performance analysis, starting with an overview of different models and going deeper into the specifics of the roofline model.
+- The roofline model. Describing the roofline model and presenting its practical application through clear explanations and demonstrations.
 
-## Embarrassingly Parallel workflows and how to execute them
+## File systems. 
+This practical session covers the proper use of file systems on HPC systems, especially on Snellius.
 
-This module will cover methods for executing many independent jobs in parallel (e.g. using Slurm array jobs,  Background processes, and QCG-PilotJob)
 
-
-### Prerequisites
+## Prerequisites
 
 - Please bring your own laptop (with an ssh client installed (e.g. MobaXterm)) for the hands-on sessions!
 - [Introduction to Bash](./day-1.qmd)
