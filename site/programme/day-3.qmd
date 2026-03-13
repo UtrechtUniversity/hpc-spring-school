@@ -35,5 +35,5 @@ Prerequisites:
 
 If you already possess the knowledge of the above-mentioned prerequisites, you can register for this course.
 
-<!-- <a href="https://bookings.uu.nl/event/4346941" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/introsupercomputing1" class="button">Register here!</a>
 

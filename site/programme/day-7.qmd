@@ -35,10 +35,10 @@ This course is suitable for anyone with a basic understanding of cluster computi
 
 - [Introduction to Bash](./day-1.qmd)
 - [Introduction to Supercomputing 1](./day-3.qmd)
-- optional: [Introduction to Supercomputing 2](./day-6.qmd)
+- recommended: [Introduction to Supercomputing 2](./day-6.qmd)
 
 ### You should have:
 
 Your own laptop with an up-to-date browser and a terminal emulator. The use of the operating systems Linux and macOS is preferred, but not mandatory. For Windows users we recommend to download MobaXterm (portable version) as terminal emulator.
 
-<!-- <a href="link" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/introsupercomputing3" class="button">Register here!</a>

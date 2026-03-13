@@ -33,4 +33,4 @@ This practical session covers the proper use of file systems on HPC systems, esp
 - [Introduction to Bash](./day-1.qmd)
 - [Introduction to Supercomputing 1](./day-3.qmd)
 
-<!-- <a href="link" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/introsupercomputing2" class="button">Register here!</a>

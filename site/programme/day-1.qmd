@@ -34,4 +34,4 @@ The aim of this workshop is to provide an introduction to the Bash shell. We wil
 
 
 
-<!-- <a href="link" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/introtobash" class="button">Register here!</a>

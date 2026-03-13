@@ -29,3 +29,4 @@ In this workshop you will learn the basics of writing an MPI-parallelized code u
 - [Introduction to Supercomputing 3](./day-7.qmd)
 - suggested: [Parallel Programming in Python](day-4.qmd)
 
+<a href="https://bookings.uu.nl/calendar/workshops/distributedcomputing" class="button">Register here!</a>

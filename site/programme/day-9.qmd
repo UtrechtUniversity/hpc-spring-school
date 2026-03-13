@@ -19,5 +19,10 @@ execute:
 
 Learn how to accelerate Python workloads on GPUs (Part I): Understand the fundamentals and compare the performance of scientific applications.
 
+Prerequisites: 
 
-<!-- <a href="link" class="button">Register here!</a> -->
+- This is an intermediate level Python course.
+- [Introduction to Supercomputing 1](./day-3.qmd)
+- This is a two-day workshop (11 and 12 June), it is not possible to join only one day.
+
+<a href="https://bookings.uu.nl/calendar/workshops/gpucomputing1" class="button">Register here!</a>

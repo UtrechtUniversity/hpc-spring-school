@@ -31,4 +31,4 @@ Prerequisites:
 - This is a two-day workshop (4 and 5 June), it is not possible to join only one day.
 
 
-<!-- <a href="link" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/parallelpython1" class="button">Register here!</a>

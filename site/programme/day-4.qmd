@@ -17,7 +17,7 @@ execute:
 
 Did you write code in Python and is it not fast enough? Do you run code, but are you running out of memory? If you want your code to make optimal use of your computing resources (whether it is your own laptop or an HPC system), then parallellizing your code might be the solution.
 
-In this course we show several ways of speeding up your program and making it run in parallel. We introduce the following modules:
+In this course we show several ways of speeding up your program and making it run in parallel on your laptop or a single compute node on a supercomputer (If you wish to distribute work across multiple compute nodes consider registering for the [Distributed Computing module](./day-8.qmd) on 10 June). We introduce the following modules:
 
 - `threading` (allows different parts of your program to run concurrently on a single computer with shared memory).
 - `dask` makes scalable parallel computing easy.
@@ -31,4 +31,4 @@ Prerequisites:
 - This is a two-day workshop (4 and 5 June), it is not possible to join only one day.
 
 
-<!-- <a href="link" class="button">Register here!</a> -->
+<a href="https://bookings.uu.nl/calendar/workshops/parallelpython1" class="button">Register here!</a>
