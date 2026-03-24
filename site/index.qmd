@@ -42,13 +42,18 @@ listing:
       description: "SURF is a cooperative association of Dutch educational and research institutions in which the members combine their strengths. Within SURF, we work together to acquire or develop the best possible digital services, and to encourage knowledge sharing through continuous innovation. The members are the owners of SURF."
     - path: https://www.uu.nl/en/research/digital-competence-center
       image: https://www.uu.nl/sites/default/files/cm_hs_avatar_corporate.png
-      title: "**UDCC**"
-      description: "The UDCC (Utrecht Digital Competence Center) is the network of all support teams at Utrecht University for help with research data, software, and infrastructure. We exist to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. "
+      title: "**UU DCC**"
+      description: "The Utrecht University DCC (Digital Competence Center) is the network of all support teams at Utrecht University for help with research data, software, and infrastructure. We exist to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. "
+    - path: https://www.esciencecenter.nl/
+      image: https://research-software-directory.org/image/rpc/get_image?uid=84105fcfd3f960ef7238cc696b38cd6e742684e1
+      title: "**eScience center**"
+      description: "The Netherlands eScience Center is the Netherlands’ national centre for research software. As an independent foundation with around 100 passionate people, we empower researchers and challenge them to do ‘eScience’ better or differently.   "
     type: grid
     categories: false
-    max-items: 3
+    max-items: 4
+    grid-columns: 2
     max-description-length: 500
-    image-height: 300px
+    image-height: 200px
     feed: false
 ---
 

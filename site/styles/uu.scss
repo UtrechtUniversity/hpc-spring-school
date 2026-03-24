@@ -66,4 +66,20 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
+/* Quarto listing grid: don't crop logos */
+.quarto-listing .card-img-top,
+.quarto-listing .card img {
+  object-fit: contain !important;
+  background: white; /* or transparent */
+}
+
+/* Center and avoid cropping for listing grid images */
+.quarto-listing .card-img-top {
+  object-fit: contain !important;
+  object-position: center center;
+  padding: 12px;          /* adjust */
+  background: white;
+}
+
+
 
