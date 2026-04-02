@@ -15,12 +15,13 @@ execute:
   freeze: true
 ---
 
+The news regularly mentions the construction of many huge data centers all over the world. These data centers contain supercomputers, which are networks of many thousands of
+computers, called nodes. Large programs run on multiple of these nodes at the same time, for example because there is so much data or computation involved that it would not fit in the memory of a single node (e.g. meteorological models). However, if the computations on the different nodes are not fully independent, there needs to be a mechanism to communicate and exchange data between the nodes. This mechanism is called MPI (Message Passing Interface).
 
-The [Parallel programming in Python workshop](./day-4.qmd) gets you up to speed with parallellizing your Python code on a single compute node (e.g. with 16 or 128 CPU cores). If you wish to distribute work accross multiple compute nodes then this workshop is for you! 
+Where the [Parallel programming in Python workshop](./day-4.qmd) gets you up to speed with parallelizing your Python code on a single compute node (e.g. with 16 or 128 CPU cores), this workshop will teach you how to utilize multiple compute nodes at the same time. If you wish to distribute work across multiple compute nodes then this workshop is for you!
 
-MPI (Message Passing Interface) is the standard for writing parallel code where communication is necessary between parallel processes. 
-
-In this workshop you will learn the basics of writing an MPI-parallelized code using Python or Fortran.
+This workshop will first take you through the essential MPI commands and will give you a lot of hands-on experience in solving problems with those.
+In the second half you will face two more challenging problems where MPI-programming will enable you to find solutions where non-MPI approaches would not.
 
 ## Prerequisites:
 
