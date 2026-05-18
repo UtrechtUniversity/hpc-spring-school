@@ -1,5 +1,5 @@
 ---
-title: Programming Cafe; tbd
+title: Programming Cafe; AI assisted programming
 subtitle: "15:00 - 17:00"
 date: "09 June 2026"
 author: "UDCC"
@@ -15,6 +15,6 @@ execute:
   freeze: true
 ---
 
-The Programming cafe is an informal monthly meetup facilitated by RDM Support. Each Programming cafe has a special theme, and in June the theme will be very much related to the HPC Spring School!
+The Programming cafe is an informal monthly meetup facilitated by the UDCC. Each Programming cafe has a special theme, and in June the theme will be very much related to the HPC Spring School!
 
-<!-- <a href="https://www.uu.nl/en/events/programming-cafe-15-may-2025" class="button">More Information!</a> -->
+<a href="https://https://www.uu.nl/en/events/programming-cafe-9-june-2026" class="button">More Information and registration!</a>
