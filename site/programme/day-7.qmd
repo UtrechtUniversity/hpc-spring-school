@@ -2,7 +2,7 @@
 title: Introduction to Supercomputing 3; Parallel jobs and hybrid jobs
 subtitle: "9:00 - 14:30"
 date: "9 June 2026"
-author: "(SURF)"
+author: "Xavier Farré Álvarez (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

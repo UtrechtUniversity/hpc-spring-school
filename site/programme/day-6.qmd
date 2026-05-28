@@ -2,7 +2,7 @@
 title: Introduction to Supercomputing 2; Filesystems and Performance Analysis
 subtitle: "9:00 - 14:30"
 date: "8 June 2026"
-author: "(SURF)"
+author: "Xavier Farré Álvarez (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"

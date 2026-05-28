@@ -2,7 +2,7 @@
 title: GPU computing 2
 subtitle: "9:30 - 16:00"
 date: "12 June 2026"
-author: "(SURF)"
+author: "Clícia Pinto (SURF) and Mohsen Safari (SURF)"
 language: 
   title-block-author-single: "Taught by"
   title-block-published: "Date"
