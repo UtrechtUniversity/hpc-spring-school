@@ -1,5 +1,5 @@
 ---
-pagetitle: "HPC Spring School"
+pagetitle: "HPC Spring School 2025"
 page-layout: full
 search: true
 image: img/parallel-trains.jpg

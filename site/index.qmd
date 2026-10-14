@@ -11,25 +11,7 @@ about:
   image-width: 30em
   id: hero-heading
 
-
 listing:
-  - id: programme
-    contents: 
-    - /programme/day-*.qmd
-    type: table
-    sort: 
-    - "date asc"
-    - "title asc"
-    fields: [image, date, subtitle, title, author]
-    field-display-names:
-      date: "Date"
-      subtitle: "Time"
-      title: "Workshop"
-      author: "Trainer(s)"
-    date-format: "MMMM DD, YYYY"
-    sort-ui: false
-    filter-ui: false
-
   - id: support
     contents:
     - path: https://eurocc-netherlands.nl/
@@ -44,10 +26,6 @@ listing:
       image: https://www.uu.nl/sites/default/files/cm_hs_avatar_corporate.png
       title: "**UU DCC**"
       description: "The Utrecht University DCC (Digital Competence Center) is the network of all support teams at Utrecht University for help with research data, software, and infrastructure. We exist to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. "
-    - path: https://www.esciencecenter.nl/
-      image: https://research-software-directory.org/image/rpc/get_image?uid=84105fcfd3f960ef7238cc696b38cd6e742684e1
-      title: "**eScience center**"
-      description: "The Netherlands eScience Center is the Netherlands’ national centre for research software. As an independent foundation with around 100 passionate people, we empower researchers and challenge them to do ‘eScience’ better or differently.   "
     type: grid
     categories: false
     max-items: 4
@@ -57,8 +35,6 @@ listing:
     feed: false
 ---
 
-
-
 ::: {#hero-heading}
 ## HPC Spring School @ Utrecht University
 
@@ -66,20 +42,27 @@ Are you ready to boost your skills in scientific computation, parallel programmi
 
 During this Spring School, experts from the UU and SURF offer a wide range of sessions spread over ten days.
 
-The HPC Spring School will take place from 1 June till 12 June at Utrecht University; all sessions are in-person events. 
+The HPC Spring School will take place end of May and beginning of June 2027 at Utrecht University; all sessions are in-person events. 
 
 :::
 
 <br><br>
 
-## Registration Open!
+## Pre-registration Open
 
-Registration is open for all researchers in the Netherlands. There is a limited number of spots for thesis students. You can design your own program and register for one or multiple workshops of your interest. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
+The program will be announced and the registration will be open in February 2027. Pre-register using the box below.
+
+<br><br>
+
+<iframe src="https://survey.uu.nl/jfe/form/SV_bEMHTdP03YlV32C" height="1000px" width="1000px"></iframe>
+
+Registration is open for all researchers in the Netherlands. There is a limited number of spots for thesis students. You can design your own program and register for one or multiple workshops of your interest. Each workshop has their own registration form, find the registration forms by clicking on the workshop in the program below. Note that some workshops have prerequisites, so please make sure to check the requirements before registering.
 
 ## Programme
 
-::: {#programme}
-:::
+TBD, see the program of [2026](./2026.qmd) to get an idea of what to expect. Express your wishes above!
+
+
 
 ## Supported by
 :::{#support}
